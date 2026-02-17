@@ -1,0 +1,23 @@
+Enter your choice:
+   1 to insert an element into the list.
+   2 to delete an element from the list.
+   3 to end.
+? Enter id and name: The list is:
+123 mark -->NULL
+123 mark -->NULL
+? Enter id and name: The list is:
+111 meet -->123 mark -->NULL
+123 mark -->111 meet -->NULL
+? Enter number to be deleted: 111 deleted.
+The list is:
+123 mark -->NULL
+123 mark -->NULL
+? Enter number to be deleted: 123 deleted.
+List is empty.
+
+? Enter id and name: The list is:
+114 Mode -->NULL
+114 Mode -->NULL
+? Clear all nodes
+delete 114
+End of run.
